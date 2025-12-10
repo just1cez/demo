@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Termux",
+            "compilerPath": "/data/data/com.termux/files/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+                "/data/data/com.termux/files/usr/include",
+                "${workspaceFolder}/**"
+            ]
+        }
+    ],
+    "version": 4
+}

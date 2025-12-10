@@ -1,0 +1,5 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.default.compilerPath": "/data/data/com.termux/files/usr/bin/clang",
+    "editor.tabCompletion": "on"
+}
